@@ -3,10 +3,14 @@
 A daily social mapping project happening every November.
 Information about the challenge and the themes are available on [30daymapchallenge.com](https://30daymapchallenge.com/).
 
+[Day1](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/lighthouses.ipynb)
+
+<img src="/map/lighthouses_japan.gif" width="75%"/>
+
 [Day2](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/baixa_pombalina.ipynb)
 
 <img src="/map/baixa_pombalina.png" width="75%"/>
 
-[Day1](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/lighthouses.ipynb)
+[Day3](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/sacred_footprints.ipynb)
 
-<img src="/map/lighthouses_japan.gif" width="75%"/>
+<img src="/map/sacred_footprints.png" width="75%"/>
