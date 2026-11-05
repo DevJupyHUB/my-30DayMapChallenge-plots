@@ -15,6 +15,10 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/sacred_footprints.png" width="75%"/>
 
-[Day4](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/antenna_clusters.ipynb)
+[Day4](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/rossio_museums.ipynb)
 
 <img src="/map/antenna_clusters.png" width="75%"/>
+
+[Day5](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/antenna_clusters.ipynb)
+
+<img src="/map/rossio_museums.gif" width="75%"/>
