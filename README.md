@@ -22,3 +22,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day5](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/antenna_clusters.ipynb)
 
 <img src="/map/rossio_museums.gif" width="75%"/>
+
+[Day6](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/vintage_coimbra.ipynb)
+
+<img src="/map/vintage_coimbra.png" width="75%"/>
