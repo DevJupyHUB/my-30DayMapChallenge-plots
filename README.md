@@ -26,3 +26,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day6](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/vintage_coimbra.ipynb)
 
 <img src="/map/vintage_coimbra.png" width="75%"/>
+
+[Day7](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/Alqueva_Reservoir.ipynb)
+
+<img src="/map/Alqueva_Reservoir.png" width="75%"/>
