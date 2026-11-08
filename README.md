@@ -30,3 +30,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day7](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/Alqueva_Reservoir.ipynb)
 
 <img src="/map/Alqueva_Reservoir.png" width="75%"/>
+
+[Day8](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/climate_utopia.ipynb)
+
+<img src="/map/climate_utopia.png" width="75%"/>
