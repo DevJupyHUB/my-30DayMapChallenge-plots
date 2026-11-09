@@ -34,3 +34,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day8](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/low_cost.ipynb)
 
 <img src="/map/low_cost.png" width="75%"/>
+
+[Day9](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/urban_rural.ipynb)
+
+<img src="/map/urban_rural.png" width="75%"/>
