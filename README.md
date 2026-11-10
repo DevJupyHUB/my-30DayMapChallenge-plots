@@ -38,3 +38,8 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day9](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/urban_rural.ipynb)
 
 <img src="/map/urban_rural.png" width="75%"/>
+
+[Day9](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/map/prt_fishing_presence_2024_orthographic.gif)
+
+<img src="/map/prt_fishing_presence_2024_orthographic.gif" width="75%"/>
+
