@@ -39,7 +39,11 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/urban_rural.png" width="75%"/>
 
-[Day9](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/map/prt_fishing_presence_2024_orthographic.gif)
+[Day10](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/map/prt_fishing_presence_2024_orthographic.gif)
 
 <img src="/map/prt_fishing_presence_2024_orthographic.gif" width="75%"/>
+
+[Day11](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/sound.ipynb)
+
+<img src="/map/sound.png" width="75%"/>
 
