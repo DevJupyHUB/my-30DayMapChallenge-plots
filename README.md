@@ -47,3 +47,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/sound.png" width="75%"/>
 
+[Day12](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/wind_turbines.ipynb)
+
+<img src="/map/wind_turbines.png" width="75%"/>
+
