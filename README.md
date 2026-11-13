@@ -51,3 +51,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/wind_turbines.png" width="75%"/>
 
+[Day13](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/seasonal_colors.ipynb)
+
+<img src="/map/seasonal_colors.gif" width="75%"/>
+
