@@ -55,3 +55,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/seasonal_colors.gif" width="75%"/>
 
+[Day14](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/borgesian_downtown.ipynb)
+
+<img src="/map/borgesian_downtown.png" width="75%"/>
+
