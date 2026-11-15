@@ -59,3 +59,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/borgesian_downtown.png" width="75%"/>
 
+[Day15](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/inside_out.ipynb)
+
+<img src="/map/inside_out.png" width="75%"/>
+
