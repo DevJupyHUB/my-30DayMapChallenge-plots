@@ -63,3 +63,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/inside_out.png" width="75%"/>
 
+[Day16](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/cooperatives.ipynb)
+
+<img src="/map/cooperatives.png" width="75%"/>
+
