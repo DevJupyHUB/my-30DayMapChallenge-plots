@@ -67,3 +67,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/cooperatives.png" width="75%"/>
 
+[Day17](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/light&dark.ipynb)
+
+<img src="/map/light&dark.png" width="75%"/>
+
