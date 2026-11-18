@@ -71,3 +71,8 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/light&dark.png" width="75%"/>
 
+[Day18](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/unnamed.ipynb)
+
+<img src="/map/unnamed.gif" width="75%"/>
+
+
