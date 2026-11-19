@@ -75,4 +75,8 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/unnamed.gif" width="75%"/>
 
+[Day19](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/medieval_smells.ipynb)
+
+<img src="/map/medieval_smells.png" width="75%"/>
+
 
