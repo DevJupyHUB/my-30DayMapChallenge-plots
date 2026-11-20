@@ -79,4 +79,8 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/medieval_smells.png" width="75%"/>
 
+[Day20](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/hexagon.ipynb)
+
+<img src="/map/hexagon.png" width="75%"/>
+
 
