@@ -83,4 +83,8 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/hexagon.png" width="75%"/>
 
+[Day21](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/urban_geometries.ipynb)
+
+<img src="/map/urban_geometries.png" width="75%"/>
+
 
