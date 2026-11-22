@@ -87,4 +87,6 @@ Information about the challenge and the themes are available on [30daymapchallen
 
 <img src="/map/urban_geometries.png" width="75%"/>
 
+[Day22](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/loximuthal.ipynb)
 
+<img src="/map/loximuthal.png" width="75%"/>
