@@ -90,3 +90,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day22](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/loximuthal.ipynb)
 
 <img src="/map/loximuthal.png" width="75%"/>
+
+[Day23](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/cafe_bar.ipynb)
+
+<img src="/map/cafes_bars.png" width="75%"/>
