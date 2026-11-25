@@ -98,3 +98,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day24](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/ferry_network.ipynb)
 
 <img src="/map/ferry_network.png" width="75%"/>
+
+[Day25](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/charles.ipynb)
+
+<img src="/map/charles.png" width="75%"/>
