@@ -102,3 +102,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day25](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/charles.ipynb)
 
 <img src="/map/charles.png" width="75%"/>
+
+[Day26](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/water.ipynb)
+
+<img src="/map/water.png" width="75%"/>
