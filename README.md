@@ -106,3 +106,7 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day26](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/water.ipynb)
 
 <img src="/map/water.png" width="75%"/>
+
+[Day27](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/momepy.ipynb)
+
+<img src="/map/momepy.png" width="75%"/>
