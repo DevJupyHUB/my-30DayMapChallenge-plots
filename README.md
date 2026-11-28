@@ -110,3 +110,8 @@ Information about the challenge and the themes are available on [30daymapchallen
 [Day27](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/momepy.ipynb)
 
 <img src="/map/momepy.png" width="75%"/>
+
+[Day28](https://github.com/DevJupyHUB/my-30DayMapChallenge-plots/blob/main/code/feeling.ipynb)
+
+<img src="/map/feeling.png" width="75%"/>
+
